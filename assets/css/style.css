@@ -1,0 +1,69 @@
+
+div{
+    background-color: antiquewhite;
+    margin:10px;
+    width: 25%;
+
+}
+div{
+    border: solid 2px whitesmoke;
+    padding: 10px;
+}
+h1,h3,span{
+ font-weight: bold;
+ text-align: center;
+}
+
+h1{
+    font: size 30pt;
+    background-color: aqua;
+}
+
+*/Specific Elements*/
+div.header, div.gems{
+    background-color: aqua;
+}
+div.header,div.instructions{
+    width: 50%
+}
+
+.numberToMatch, {
+    float: left;
+    width: 230px;
+    height: 80px;
+    border-radius: 6px;
+}
+
+.winsAndLosses{
+
+    width: 230px;
+    height: 50px;
+    background-color: aqua;
+}
+
+.userTotal{
+   width: 215px;
+   height: 160px;
+   background-color:turquoise;
+   float: left;
+   border-radius: 6px;
+   margin-top: 180px;
+   text-align: center;
+   margin-left: -205px;
+
+}
+.gems{
+    clear:both;
+}
+
+.gemImage{
+    height: 60px;
+    margin: 10px;
+    float: left;
+
+}
+
+
+
+
+
